@@ -1,0 +1,16 @@
+pkgs
+gcloud
+nixpkgs
+nixos
+keymaps
+autocmd
+keymap
+builtins
+wezterm
+zellij
+zoxide
+ripgrep
+btop
+basename
+Args
+nodejs

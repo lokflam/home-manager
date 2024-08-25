@@ -1,0 +1,4 @@
+theme "catppuccin-macchiato"
+simplified_ui true
+pane_frames false
+pane_viewport_serialization true
